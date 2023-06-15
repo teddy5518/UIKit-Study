@@ -1,8 +1,9 @@
-# UIKit Study   
-This repository was created for the purpose of documenting the study of UIKit. </br>
-All rights belong to the creators. </br>
+# Allen Swift Grammar Master School
 
-Please refer to the comments inside the Xcode file for more details. </br>
+### Mar 2023 ~ May 2023 (2 months)
+
+- Studied Swift, UIKit
+- Student of a fully-immersive 2 month bootcamp designed to master Swift grammar
 
 ## List
 |No.|Title|File|Creator|Note|
