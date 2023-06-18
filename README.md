@@ -1,9 +1,6 @@
 # Allen Swift Grammar Master School
 
-### Mar 2023 ~ May 2023 (2 months)
-
-- Studied Swift, UIKit
-- Student of a fully-immersive 2 month bootcamp designed to master Swift grammar
+### Mar 2023 ~ May 2023 (8 weeks)
 
 ## List
 |No.|Title|File|Creator|Note|
