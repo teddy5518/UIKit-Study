@@ -1,7 +1,9 @@
 # Allen Swift Grammar Master School
 
-### Mar 2023 ~ May 2023 (8 weeks)
+This repository was created for the purpose of documenting the study of SwiftUI. 
+All rights belong to the creators. 
 
+Please refer to the comments inside the Xcode file for more details. 
 ## List
 |No.|Title|File|Creator|Note|
 |-|-|-|-|-|
