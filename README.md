@@ -1,7 +1,6 @@
 # UIKit Study
 
 This repository was created for the purpose of documenting the study of UIKit. All rights belong to the creators. 
-
 Please refer to the comments inside the Xcode file for more details. 
 ## List
 |No.|Title|File|Creator|Note|
